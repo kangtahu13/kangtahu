@@ -228,7 +228,7 @@ $jdClass = new \jdClass;
 echo"============================================================= \n";
 echo " Selamat Datang di BOT JDID Account Creator - Auto Register  \n";
 echo"              Mari Pergunakan Bot ini Dengan Bijak            \n";
-echo"                          Create By Andi                      \n";
+echo"                          KangTahu-Bulat                      \n";
 echo"============================================================= \n";
     		echo "Masukan Password yang diinginkan : ";
 			$password= trim(fgets(STDIN));
